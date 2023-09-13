@@ -1,0 +1,27 @@
+import turtle
+s = turtle.getscreen()
+
+t = turtle.Turtle()
+t.pensize(10)
+t.rt(70)
+t.fd(100)
+t.rt(180)
+t.fd(100)
+t.rt(220)
+t.fd(100)
+t.rt(180)
+t.fd(100)
+t.lt(20)
+t.fd(100)
+t.rt(120)
+t.fd(75)
+t.rt(180)
+t.fd(75)
+t.lt(55)
+t.fd(75)
+t.bk(75)
+t.goto(-20,60)
+t.circle(60)
+
+
+i = input()
